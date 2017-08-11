@@ -121,7 +121,7 @@ public class actualTest {
 	String Min_Price = row2.get(4);
 	String Max_Price = row2.get(5);
 
-	@Ignore
+	
 	@Test
 	public void test1_accountcreation() {
 
@@ -137,7 +137,7 @@ public class actualTest {
 
 	}
 
-	@Ignore
+	
 	@Test
 	public void test2_login() {
 
@@ -184,7 +184,7 @@ public class actualTest {
 		// fail("Not yet implemented");
 	}
 
-	@Ignore
+	
 	@Test
 	public void test4_carsearch2() throws InterruptedException {
 
@@ -268,7 +268,7 @@ public class actualTest {
 		// fail("Not yet implemented");
 	}
 
-	@Ignore
+	
 	@Test
 	public void test5_logout() throws InterruptedException {
 
@@ -285,7 +285,7 @@ public class actualTest {
 		// fail("Not yet implemented");
 	}
 
-	@Ignore
+
 	@Test
 	public void test6() {
 
@@ -294,7 +294,7 @@ public class actualTest {
 		fail("Not yet implemented");
 	}
 
-	@Ignore
+
 	@Test
 	public void test7() {
 
@@ -303,7 +303,7 @@ public class actualTest {
 		fail("Not yet implemented");
 	}
 
-	@Ignore
+
 	@Test
 	public void test8() {
 
@@ -312,7 +312,7 @@ public class actualTest {
 		fail("Not yet implemented");
 	}
 
-	@Ignore
+
 	@Test
 	public void test9() {
 
@@ -321,7 +321,7 @@ public class actualTest {
 		fail("Not yet implemented");
 	}
 
-	@Ignore
+	
 	@Test
 	public void test10() {
 
